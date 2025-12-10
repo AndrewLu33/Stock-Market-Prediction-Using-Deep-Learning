@@ -1,5 +1,4 @@
 📈 **Deep Learning-based Stock Market Prediction
-
 Using Historical Prices + Topic-Distributed News Sentiment**
 
 This Group Project was developed as part of the Research Methodology course.
