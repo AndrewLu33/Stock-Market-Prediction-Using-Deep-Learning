@@ -43,13 +43,13 @@ This branch provides market context from textual data.
 
 Model Prediction Plots
 
-![LSTM Prediction Plot](images/lstm_plot.png)
+![LSTM Prediction Plot](Images/lstm_plot.png)
 
 
-![GRU Prediction Plot](images/gru_plot.png)
+![GRU Prediction Plot](Images/gru_plot.png)
 
 
-![GRU Prediction Plot](images/tcnn_plot.png)
+![GRU Prediction Plot](Images/tcnn_plot.png)
 
 GRU outperformed the others due to its ability to capture long-term dependencies efficiently.
 
