@@ -1,5 +1,8 @@
-📈 Deep Learning-based Stock Market Prediction Using Historical Prices + Topic-Distributed News Sentiment
-This research Group Project was developed as part of the Research Methodology course.
+📈 **Deep Learning-based Stock Market Prediction
+
+Using Historical Prices + Topic-Distributed News Sentiment**
+
+This Group Project was developed as part of the Research Methodology course.
 
 The goal was to investigate how deep learning models can predict stock market movements by combining:
 
@@ -7,7 +10,7 @@ The goal was to investigate how deep learning models can predict stock market mo
 
 🟧 Topic-distributed sentiment extracted from financial news
 
-I served as the main developer responsible for building and integrating the complete deep learning pipeline.
+I served as the main developer, responsible for building and integrating the complete deep learning pipeline.
 
 
 🚀 Project Overview
@@ -28,8 +31,12 @@ This branch provides market context from textual data.
 
 
 📊 Result
+Model Prediction Plots
+
 ![LSTM Prediction Plot](images/lstm_plot.png)
+
 ![GRU Prediction Plot](images/gru_plot.png)
+
 ![GRU Prediction Plot](images/tcnn_plot.png)
 
 The system was trained and evaluated using historical data from Apple (AAPL) stock.
