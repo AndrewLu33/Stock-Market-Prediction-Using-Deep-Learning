@@ -51,17 +51,6 @@ Model Prediction Plots
 
 ![GRU Prediction Plot](images/tcnn_plot.png)
 
-
-The system was trained and evaluated using historical data from Apple (AAPL) stock.
-
-Model      R² Score
-
-GRU	       ⭐0.9866 (Best)
-
-LSTM	     0.9838
-
-TCNN	     0.9587
-
 GRU outperformed the others due to its ability to capture long-term dependencies efficiently.
 
 
