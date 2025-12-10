@@ -1,5 +1,4 @@
-📈 **Deep Learning-based Stock Market Prediction
-Using Historical Prices + Topic-Distributed News Sentiment**
+## 📈 **Deep Learning-based Stock Market Prediction Using Historical Prices + Topic-Distributed News Sentiment**
 
 This Group Project was developed as part of the Research Methodology course.
 
@@ -11,9 +10,8 @@ The goal was to investigate how deep learning models can predict stock market mo
 
 I served as the main developer, responsible for building and integrating the complete deep learning pipeline.
 
-
-
-🚀 Project Overview
+---
+# 🚀 Project Overview
 
 We designed a dual-branch deep learning architecture that processes two different inputs:
 
@@ -37,9 +35,8 @@ These models learn temporal patterns in historical price data.
 
 This branch provides market context from textual data.
 
-
-
-📊 Result
+---
+# 📊 Result
 
 Model Prediction Plots
 
@@ -53,9 +50,9 @@ Model Prediction Plots
 
 GRU outperformed the others due to its ability to capture long-term dependencies efficiently.
 
+---
 
-
-🧩 Challenges & Learnings
+# 🧩 Challenges & Learnings
 
 • This project provided hands-on experience solving real-world ML issues:
 
@@ -69,9 +66,9 @@ GRU outperformed the others due to its ability to capture long-term dependencies
 
 • Managing long training times and ensuring reproducibility
 
+---
 
-
-👨‍💻 Authors
+# 👨‍💻 Authors
 
 • Rafi Hazel Tafara, who was responsible for designing the deep learning model architecture.
 
@@ -79,6 +76,5 @@ GRU outperformed the others due to its ability to capture long-term dependencies
 
 • Muhammad Fikri Hasani and Ayu Maulina, our supervising lecturers, for their invaluable guidance.
 
-
-
+---
 📄 **[Read the Research Paper (CC BY-NC-ND 4.0)](https://lnkd.in/e5bCnntw)**
