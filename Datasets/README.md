@@ -46,6 +46,6 @@ Below are the accurate file sizes based on system properties:
 
 Due to GitHub’s 25MB file size limit, this file is stored externally.
 
-📥 **Download CNN_Articles_clean_2.csv here:**  
+📥 **Download datasets here:**  
 👉 (https://drive.google.com/file/d/1r9ybLOuINXMrlY9QhS3NhnbDxAC6NDdQ/view?usp=sharing)  
 ---
